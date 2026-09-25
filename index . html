@@ -1,15 +1,12 @@
-	$aWarnings[i].WrnControlsTemp =  		$GetBit($aByte17_18[i],0)
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>B.F.P - برازمان فیدار پاسارگاد</title>
+  <title>B.F.P - Barazman Fidar Pasargad</title>
   <link rel="stylesheet" href="style.css">
-  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <!-- Header -->
   <header>
     <div class="container">
       <div class="logo-section">
@@ -29,7 +26,6 @@
     </div>
   </header>
 
-  <!-- Hero Section -->
   <section class="hero" id="home">
     <div class="container">
       <h2>تستر هوشمند AUMA</h2>
@@ -38,7 +34,6 @@
     </div>
   </section>
 
-  <!-- Products -->
   <section class="products" id="products">
     <div class="container">
       <h2>محصولات ما</h2>
@@ -62,7 +57,6 @@
     </div>
   </section>
 
-  <!-- Services -->
   <section class="services" id="services">
     <div class="container">
       <h2>خدمات ما</h2>
@@ -83,7 +77,6 @@
     </div>
   </section>
 
-  <!-- About -->
   <section class="about" id="about">
     <div class="container">
       <h2>درباره ما</h2>
@@ -91,7 +84,6 @@
     </div>
   </section>
 
-  <!-- Contact -->
   <section class="contact" id="contact">
     <div class="container">
       <h2>تماس با ما</h2>
@@ -112,7 +104,6 @@
     </div>
   </section>
 
-  <!-- Footer -->
   <footer>
     <div class="container">
       <p>© 2024 B.F.P - Barazman Fidar Pasargad</p>
