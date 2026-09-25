@@ -1,0 +1,125 @@
+	$aWarnings[i].WrnControlsTemp =  		$GetBit($aByte17_18[i],0)
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B.F.P - برازمان فیدار پاسارگاد</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <div class="logo-section">
+        <div class="logo">B.F.P</div>
+        <div class="company-name">
+          <h1>برازمان فیدار پاسارگاد</h1>
+          <p>Barazman Fidar Pasargad</p>
+        </div>
+      </div>
+      <nav>
+        <a href="#home">خانه</a>
+        <a href="#products">محصولات</a>
+        <a href="#services">خدمات</a>
+        <a href="#about">درباره ما</a>
+        <a href="#contact">تماس</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero" id="home">
+    <div class="container">
+      <h2>تستر هوشمند AUMA</h2>
+      <p>Universal Tester for AUMA Controllers & Actuators</p>
+      <a href="#products" class="btn">مشاهده محصولات</a>
+    </div>
+  </section>
+
+  <!-- Products -->
+  <section class="products" id="products">
+    <div class="container">
+      <h2>محصولات ما</h2>
+      <div class="product-grid">
+        <div class="product-card">
+          <div class="icon">🔧</div>
+          <h3>تستر یونیورسال AUMA</h3>
+          <p>تستر هوشمند برای کنترلرها و اکچویتورهای AUMA</p>
+        </div>
+        <div class="product-card">
+          <div class="icon">⚙️</div>
+          <h3>تجهیزات تست سفارشی</h3>
+          <p>طراحی و ساخت تجهیزات تست صنعتی</p>
+        </div>
+        <div class="product-card">
+          <div class="icon">🏭</div>
+          <h3>اتوماسیون صنعتی</h3>
+          <p>راه‌حل‌های اتوماسیون و کنترل</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section class="services" id="services">
+    <div class="container">
+      <h2>خدمات ما</h2>
+      <div class="service-grid">
+        <div class="service-card">
+          <h3>طراحی</h3>
+          <p>طراحی مدارات الکترونیکی و PCB</p>
+        </div>
+        <div class="service-card">
+          <h3>تولید</h3>
+          <p>تولید تجهیزات صنعتی</p>
+        </div>
+        <div class="service-card">
+          <h3>پشتیبانی</h3>
+          <p>پشتیبانی فنی و تعمیرات</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="about" id="about">
+    <div class="container">
+      <h2>درباره ما</h2>
+      <p>شرکت برازمان فیدار پاسارگاد با هدف ارائه راه‌حل‌های نوین در حوزه اتوماسیون صنعتی و تجهیزات تست فعالیت می‌کند.</p>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="contact" id="contact">
+    <div class="container">
+      <h2>تماس با ما</h2>
+      <div class="contact-info">
+        <div class="contact-item">
+          <span>📞</span>
+          <p>0912-846-2193</p>
+        </div>
+        <div class="contact-item">
+          <span>📧</span>
+          <p>info@bfp-co.ir</p>
+        </div>
+        <div class="contact-item">
+          <span>🌐</span>
+          <p>www.bfp-co.ir</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>© 2024 B.F.P - Barazman Fidar Pasargad</p>
+      <p>تمامی حقوق محفوظ است</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
